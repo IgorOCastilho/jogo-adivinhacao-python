@@ -1,10 +1,9 @@
 # 🎯 Jogo de Adivinhação em Python
 
-Um jogo simples de adivinhação de número feito com `while`, `break`, `continue` e `input()`.
-
----
+Um jogo simples onde o computador escolhe um número aleatório de 1 a 100 e você tenta adivinhar.
 
 ## 🚀 Como jogar
-1. Clone este repositório:
+1. Baixe ou clone este repositório.
+2. No terminal, rode:
    ```bash
-   git clone https://github.com/IgorOCastilho/jogo-adivinhacao-python.git
+   python projrto_while.py
